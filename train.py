@@ -18,7 +18,7 @@ def main():
 
     transformer.save_weights('./model/transformer_weights')
 
-    # transformer.save('./transformer', include_optimizer=False)  # load_modelで、tf.linalg.band_partが失敗しちゃう。。。TensorFlowのバグ？
+    # tf.keras.models.save_model(transformer, './transformer', include_optimizer=False)  # load_modelで、tf.linalg.band_partが失敗しちゃう。2.4で修正済み。
 
 
 if __name__ == '__main__':
