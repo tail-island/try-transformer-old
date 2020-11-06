@@ -28,7 +28,7 @@ def main():
     transformer.compile(tf.keras.optimizers.Adam(LearningRateSchedule(D_MODEL), beta_1=0.9, beta_2=0.98, epsilon=1e-9), loss=Loss(), metrics=('accuracy',))
     transformer.load_weights('./model/transformer_weights')
 
-    # transformer = tf.keras.models.load_model('./transformer')  # tf.linalg.band_partが失敗しちゃう。2.4で修正済み。
+    # transformer = tf.keras.models.load_model('./model')  # tf.linalg.band_partが失敗しちゃう。2.4で修正済み。
 
     c = 0
 

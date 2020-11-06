@@ -16,7 +16,7 @@ prediction: 1
 
 question:   13*51  
 answer:     663   
-prediction: 643
+prediction: 623
 NG
 
 question:   37-782 
@@ -61,7 +61,7 @@ prediction: 634
 
 question:   132*58 
 answer:     7656  
-prediction: 7396
+prediction: 7496
 NG
 
 question:   5*3    
@@ -114,12 +114,12 @@ prediction: 166
 
 question:   709-693
 answer:     16    
-prediction: 46
+prediction: 116
 NG
 
 question:   93*487 
 answer:     45291 
-prediction: 45441
+prediction: 45031
 NG
 
 question:   3*61   
@@ -132,7 +132,7 @@ prediction: -36
 
 question:   81*351 
 answer:     28431 
-prediction: 28901
+prediction: 28331
 NG
 
 question:   749+63 
@@ -141,7 +141,7 @@ prediction: 812
 
 question:   992*729
 answer:     723168
-prediction: 727188
+prediction: 717748
 NG
 
 question:   415+0  
@@ -210,7 +210,7 @@ prediction: -926
 
 question:   696*291
 answer:     202536
-prediction: 106556
+prediction: 202206
 NG
 
 question:   39+4   
@@ -231,7 +231,7 @@ prediction: 9450
 
 question:   92*51  
 answer:     4692  
-prediction: 4672
+prediction: 4612
 NG
 
 question:   6-57   
@@ -264,7 +264,7 @@ prediction: 27
 
 question:   265*53 
 answer:     14045 
-prediction: 13245
+prediction: 13165
 NG
 
 question:   60-48  
@@ -281,7 +281,7 @@ prediction: 27
 
 question:   719*66 
 answer:     47454 
-prediction: 49284
+prediction: 47694
 NG
 
 question:   5+8    
@@ -318,7 +318,7 @@ prediction: 50
 
 question:   377*55 
 answer:     20735 
-prediction: 21005
+prediction: 21095
 NG
 
 question:   33*76  
@@ -344,7 +344,7 @@ prediction: -617
 
 question:   139*593
 answer:     82427 
-prediction: 70047
+prediction: 72007
 NG
 
 question:   8*26   
@@ -357,7 +357,8 @@ prediction: 909
 
 question:   857*7  
 answer:     5999  
-prediction: 5999
+prediction: 6999
+NG
 
 question:   711*20 
 answer:     14220 
@@ -369,7 +370,7 @@ prediction: 53
 
 question:   970*959
 answer:     930230
-prediction: 910330
+prediction: 938730
 NG
 
 question:   50*6   
@@ -390,7 +391,7 @@ prediction: 87
 
 question:   214*232
 answer:     49648 
-prediction: 56028
+prediction: 46528
 NG
 
 question:   78+310 
@@ -399,7 +400,7 @@ prediction: 388
 
 question:   11*918 
 answer:     10098 
-prediction: 9468
+prediction: 10698
 NG
 
 question:   2-320  
@@ -414,4 +415,4 @@ question:   30+91
 answer:     121   
 prediction: 121
 
-0.840
+0.830
